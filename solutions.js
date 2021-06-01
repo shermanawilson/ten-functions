@@ -38,7 +38,7 @@ function addOne(value) {
 }
 // isEven
 function isEven(value) {
-    var value = value % 2 === 0;
+    var value = value % 2 == 0;
     return value;
 }
 // isIdentical
