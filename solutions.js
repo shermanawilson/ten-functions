@@ -66,3 +66,5 @@ function concat(value1, value2) {
     var value = value1.toString() + value2.toString();
     return value;
 }
+
+// Finished
