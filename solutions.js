@@ -67,4 +67,4 @@ function concat(value1, value2) {
     return value;
 }
 
-// Finished Project Today Yay
+// Finished !
